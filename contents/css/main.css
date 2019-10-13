@@ -37,7 +37,7 @@ header > h1 {
     font-family: 'Cabin', sans-serif;
     font-size: 100px;
     padding-bottom: 20px;
-    border-bottom: 2px solid #00cfe2;
+    border-bottom: 2px solid #FD6C00;
     transition: font-size 0.7s;
 }
 
@@ -70,12 +70,12 @@ header > p {
 
 .socials::before{
     content: '|';
-    color: #00cfe2;
+    color: #FD6C00;
 }
 
 .socials::after{
     content: '|';
-    color: #00cfe2;
+    color: #FD6C00;
 }
 
 .social-icons{
@@ -84,12 +84,12 @@ header > p {
 
 .social-icons::before{
     content: '[';
-    color: #00cfe2;
+    color: #FD6C00;
 }
 
 .social-icons::after{
     content: ']';
-    color: #00cfe2;
+    color: #FD6C00;
 }
 
  html, body, .full {
@@ -99,7 +99,7 @@ header > p {
  .image {
      box-shadow: 0 0 200px rgba(0,0,0,0.9) inset;
      background: url("../assets/thumb-1920-653559.png") no-repeat center;
-     background-color: #00cfe2;
+     background-color: #FD6C00;
 }
  .vignette {
      background: -webkit-repeating-linear-gradient(top, transparent 0px, transparent 1px, rgba(0, 0, 0, 0.25) 1px, rgba(0, 0, 0, 0.25) 2px);
